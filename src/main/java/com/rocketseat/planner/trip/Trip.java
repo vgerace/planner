@@ -32,7 +32,7 @@ public class Trip {
     private LocalDateTime endsAt;
 
     @Column(name = "is_confirmed", nullable = false)
-    private boolean isConfirmed;
+    private Boolean isConfirmed;
 
     @Column(name = "owner_name", nullable = false)
     private String ownerName;
