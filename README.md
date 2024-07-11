@@ -120,8 +120,8 @@ $ Execute a classe PlannerApplication
 <li>[Maven] (https://maven.apache.org/download.cgi)</li>
 <li>[Spring Boot] (https://start.spring.io/)</li>
 <li>[Flyway] (https://flywaydb.org/)</li>
-<li>[Insomnia] (hhttps://insomnia.rest/download)</li>
-<li>[Intellij] (hhttps://www.jetbrains.com/idea/)</li>
+<li>[Insomnia] (https://insomnia.rest/download)</li>
+<li>[Intellij] (https://www.jetbrains.com/idea/)</li>
 
 </ul>
 
